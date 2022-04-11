@@ -184,7 +184,7 @@ menu a{
 .header2{
     height: 770px;
     width: 100%;
-    background-image: url(Images/ModelY.jpg);
+    background-image: url(images/ModelY.jpg);
     background-size: cover;
     background-position: center;
     margin-top: -25px;
@@ -228,7 +228,7 @@ menu a{
 .header3{
     height: 770px;
     width: 100%;
-    background-image: url(Images/ModelS.jpg);
+    background-image: url(images/ModelS.jpg);
     background-size: cover;
     background-position: center;
     margin-top:-50px;
@@ -273,7 +273,7 @@ menu a{
 .header4{
     height: 770px;
     width: 100%;
-    background-image: url(Images/ModelX.jpg);
+    background-image: url(images/ModelX.jpg);
     background-size: cover;
     background-position: center;
     margin-top:-50px;
@@ -317,7 +317,7 @@ menu a{
 .header5{
     height: 770px;
     width: 100%;
-    background-image: url(Images/SolarPanels.jpg);
+    background-image: url(images/SolarPanels.jpg);
     background-size: cover;
     background-position: center;
     margin-top:-50px;
@@ -363,7 +363,7 @@ menu a{
 .header6{
     height: 770px;
     width: 100%;
-    background-image: url(Images/SolarRoof.jpg);
+    background-image: url(images/SolarRoof.jpg);
     background-size: cover;
     background-position: center;
     margin-top:-50px;
@@ -410,7 +410,7 @@ menu a{
 .header7{
     height: 770px;
     width: 100%;
-    background-image: url(Images/Accessories.jpg);
+    background-image: url(images/Accessories.jpg);
     background-size: cover;
     background-position: center;
     margin-top:-50px;
