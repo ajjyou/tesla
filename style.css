@@ -17,7 +17,7 @@ a{
 .header{
     height: 770px;
     width: 100%;
-    background-image: url(Images/Model3.jpg);
+    background-image: url(/Images/Model3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
